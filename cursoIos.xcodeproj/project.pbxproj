@@ -6,10 +6,25 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		F8A96D172D66990800BF482A /* Fundamentos */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Fundamentos;
+			sourceTree = "<group>";
+		};
+		F8A96D182D66992200BF482A /* POO */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = POO;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
 /* Begin PBXGroup section */
 		F8CB19A12D639DD400DEBD88 = {
 			isa = PBXGroup;
 			children = (
+				F8A96D182D66992200BF482A /* POO */,
+				F8A96D172D66990800BF482A /* Fundamentos */,
 			);
 			sourceTree = "<group>";
 		};
